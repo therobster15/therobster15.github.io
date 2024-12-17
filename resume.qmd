@@ -1,37 +1,51 @@
 ---
 layout: cv
-title: Robbie Sanford's CV
+title: Robbie E. Sanford III
 ---
-# Robbie Sanford
-Project Lead, IT Technician, College Student
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Information Technology Support Projects Lead, Student, Athlete
 
 
 ## Currently
 
-Raining down like a mad man on a ham sandwhich
+Pursuing a Bachelors in Business Analytics at Brigham Young University Idaho
 
+### Specialized in
+
+Comunnication, Technology Support, Excel , SQL Databases and Data Wrangling  
 
 ### Interests
 
-Sports, eating, and video games
+Serving People, Volleyball, Soccer, Coaching and Computers
 
 
 ## Education
 
 `2014-2017`
-__Ironwood Ridge High School.__
+__Ironwood Ridge High School__
 
-
-`2017-2018`
+`Aug 2017 - May 2018`
 __Eastern Arizona College__
 
-`2023-2025`
-__Brigham Young University Idaho__
+
+## Awards
+
+`2023`
+Best Coach of the Year
+
+`Nov 19, 2015`
+Eagle Scout
+
+## Occupation
+
+`Jan 2023 - Present`
+__Information Technology Support Projects Lead__
+
+`Aug 2022- Dec 2022`
+__Assembler__, Roche Diagnostics
+
+`December 2018 - March 2020 / September 2021 - June 2022.`
+__Service Missionary__, Church of Jesus Christ of Latter-day Saints
+
 
 
 <!-- ### Footer
